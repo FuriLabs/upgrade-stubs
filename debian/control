@@ -1,0 +1,43 @@
+Source: upgrade-stubs
+Maintainer: Bardia Moshiri <bardia@furilabs.com>
+Section: misc
+Priority: optional
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.7.0
+Vcs-Browser: https://github.com/furilabs/upgrade-stubs
+Vcs-Git: https://github.com/furilabs/upgrade-stubs.git
+
+Package: mutter-17-tests
+Architecture: any
+Multi-Arch: same
+Description: Mutter
+ .
+ This is a transitional package that can be removed.
+
+Package: gir1.2-mutter-17
+Architecture: any
+Multi-Arch: same
+Description: Mutter
+ .
+ This is a transitional package that can be removed.
+
+Package: libmutter-17-0
+Architecture: any
+Multi-Arch: same
+Description: Mutter
+ .
+ This is a transitional package that can be removed.
+
+Package: libmutter-17-dev
+Architecture: any
+Multi-Arch: same
+Description: Mutter
+ .
+ This is a transitional package that can be removed.
+
+Package: libmutter-test-17
+Architecture: any
+Multi-Arch: same
+Description: Mutter
+ .
+ This is a transitional package that can be removed.
