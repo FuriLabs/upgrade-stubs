@@ -41,3 +41,10 @@ Multi-Arch: same
 Description: Mutter
  .
  This is a transitional package that can be removed.
+
+Package: libgnome-desktop-3-20t64
+Architecture: any
+Multi-Arch: same
+Description: gnome-desktop
+ .
+ This is a transitional package that can be removed.
